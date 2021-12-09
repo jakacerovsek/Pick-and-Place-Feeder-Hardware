@@ -1,0 +1,3 @@
+Change Component Comment : Designator=U1 Old Comment='' New Comment=DS2413P+
+Added Component: Designator=*(LOGO_3-10mm)
+Added Member To Class: ClassName=PickPlaceFeederSCH Member=Component * IRNAS logo3-10mm
